@@ -61,6 +61,12 @@ datepicker, .datepicker, [datepicker],
   font-size: 15px;
   line-height: 40px;
 }
+
+._720kb-datepicker-calendar-header ._720kb-datepicker-calendar-header-left b, ._720kb-datepicker-calendar-header  ._720kb-datepicker-calendar-header-right b{
+  font-size:21px;
+  font-weight:300;
+}
+
 ._720kb-datepicker-calendar-header:nth-child(odd) {
   background: #138EFA;
 }
